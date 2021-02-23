@@ -7,3 +7,4 @@ Rules:
 1. One file!
 2. Specify dependencies if required!
 3. README for each script!
+4. Open licenses!
